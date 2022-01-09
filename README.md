@@ -6,3 +6,4 @@ Usando genericos nas listas.
 # O que eu usei:
 * **List**
 * **POO**
+* **Exception**
